@@ -1,5 +1,5 @@
 # Muistitesti
-Psykologian tutkimukseen kehitetty ohjelmisto, jolla voidaan mitata muistikapasiteettia.
+Psykologian projektia varten kehitetty ohjelmisto, jolla voidaan mitata muistikapasiteettia.
 
 <img src="https://github.com/DualRedd/Muistitesti/blob/main/muistitesti_sc1.png?raw=true" height="500"/>
 
